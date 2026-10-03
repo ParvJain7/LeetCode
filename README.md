@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ParvJain7/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ParvJain7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/ParvJain7/LeetCode/tree/master/0018-4sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ParvJain7/LeetCode/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ParvJain7/LeetCode/tree/master/0018-4sum) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/ParvJain7/LeetCode/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
