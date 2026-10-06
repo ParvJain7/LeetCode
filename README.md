@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/ParvJain7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/ParvJain7/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ParvJain7/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ParvJain7/LeetCode/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0050-powx-n](https://github.com/ParvJain7/LeetCode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ParvJain7/LeetCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ParvJain7/LeetCode/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
