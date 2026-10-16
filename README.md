@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/ParvJain7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/ParvJain7/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParvJain7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0078-subsets](https://github.com/ParvJain7/LeetCode/tree/master/0078-subsets) |
 | [0912-sort-an-array](https://github.com/ParvJain7/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ParvJain7/LeetCode/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ParvJain7/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ParvJain7/LeetCode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParvJain7/LeetCode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/ParvJain7/LeetCode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
