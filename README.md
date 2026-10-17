@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ParvJain7/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParvJain7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/ParvJain7/LeetCode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/ParvJain7/LeetCode/tree/master/0494-target-sum) |
 | [0912-sort-an-array](https://github.com/ParvJain7/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParvJain7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ParvJain7/LeetCode/tree/master/0070-climbing-stairs) |
+| [0494-target-sum](https://github.com/ParvJain7/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ParvJain7/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -109,8 +111,17 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParvJain7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/ParvJain7/LeetCode/tree/master/0078-subsets) |
+| [0494-target-sum](https://github.com/ParvJain7/LeetCode/tree/master/0494-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ParvJain7/LeetCode/tree/master/0022-generate-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ParvJain7/LeetCode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/ParvJain7/LeetCode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
