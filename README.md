@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0342-power-of-four](https://github.com/ParvJain7/LeetCode/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/ParvJain7/LeetCode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/ParvJain7/LeetCode/tree/master/2235-add-two-integers) |
+| [3270-find-the-key-of-the-numbers](https://github.com/ParvJain7/LeetCode/tree/master/3270-find-the-key-of-the-numbers) |
 ## Two Pointers
 |  |
 | ------- |
