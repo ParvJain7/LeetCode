@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0046-permutations](https://github.com/ParvJain7/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ParvJain7/LeetCode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ParvJain7/LeetCode/tree/master/0078-subsets) |
+| [0189-rotate-array](https://github.com/ParvJain7/LeetCode/tree/master/0189-rotate-array) |
 | [0494-target-sum](https://github.com/ParvJain7/LeetCode/tree/master/0494-target-sum) |
 | [0912-sort-an-array](https://github.com/ParvJain7/LeetCode/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/ParvJain7/LeetCode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ParvJain7/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ParvJain7/LeetCode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/ParvJain7/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ParvJain7/LeetCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ParvJain7/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ParvJain7/LeetCode/tree/master/0342-power-of-four) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/ParvJain7/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ParvJain7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/ParvJain7/LeetCode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
